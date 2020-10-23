@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Spotify](https://jgbf.vercel.app/api/spotify)](https://open.spotify.com/user/11128205135)
+[![Spotify](https://spotify.jgbf.vercel.app/api/spotify)](https://open.spotify.com/user/11128205135)
 <!--
 **jgbf/jgbf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
