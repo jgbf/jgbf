@@ -1,8 +1,6 @@
 ### Hi there 👋, my name is Mark
 
-[![Spotify](https://spotify.jgbf.vercel.app/api/spotify)](https://open.spotify.com/user/11128205135)
-
-Skills: Python / R / HTML / CSS
+Skills: Python / Spark / Docker / Node.js / Data
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jgbf)](https://github.com/anuraghazra/github-readme-stats)
 
